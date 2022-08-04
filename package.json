@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Alvin Tolentino",
 	"description": "npm project",
+	"keywords": ["freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
